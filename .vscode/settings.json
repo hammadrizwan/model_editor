@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./root_folder"
+    ],
+    "python.analysis.extraPaths": [
+        "./root_folder"
+    ]
+}
