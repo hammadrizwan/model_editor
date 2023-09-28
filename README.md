@@ -14,12 +14,12 @@ Required Args:
 Optional Args:
 
 ## Task list:
-- [ ] #1 Add dataset loader from drive
-- [ ] #2 Add dataset constructor for COUNTERFACT dataset (Only one seen and the rest are for cosine sim)
-- [ ] #3 Add gridsearch or brute force search for layer and token index adapter run_controller testing 
-- [ ] #4 Use the FFN layer inside the adapter for testing single edit (freeze the rest of the layers)
-- [ ] #5 Run the gridsearch/bruteforce search on compute canada.
-- [ ] #6 Add T5 as encoder and new folders for encoder along with command line control for encoder. 
+- [ ] Add dataset loader from drive
+- [ ] Add dataset constructor for COUNTERFACT dataset (Only one seen and the rest are for cosine sim)
+- [ ] Add gridsearch or brute force search for layer and token index adapter run_controller testing 
+- [ ] Use the FFN layer inside the adapter for testing single edit (freeze the rest of the layers)
+- [ ] Run the gridsearch/bruteforce search on compute canada.
+- [ ] Add T5 as encoder and new folders for encoder along with command line control for encoder. 
 
 
 Paper Read list:
