@@ -22,7 +22,7 @@ Optional Args:
 - [ ] Add T5 as encoder and new folders for encoder along with command line control for encoder. 
 
 
-Paper Read list:
+Paper Reading list:
 - [Inspecting and Editing Knowledge Representations in Language Models](https://arxiv.org/abs/2304.00740)
 - [Transformer-Patcher: One Mistake worth One Neuron](https://arxiv.org/abs/2301.09785)
 - [Detecting Edit Failures In Large Language Models: An Improved Specificity Benchmark](https://aclanthology.org/2023.findings-acl.733/)
