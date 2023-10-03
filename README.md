@@ -14,6 +14,7 @@ Required Args:
 Optional Args:
 
 ## Task list:
+- [ ] Replace BERT with T5 and get last token embedding
 - [ ] Add dataset loader from drive
 - [ ] Add dataset constructor for COUNTERFACT dataset (Only one seen and the rest are for cosine sim)
 - [ ] Add gridsearch or brute force search for layer and token index adapter run_controller testing 
